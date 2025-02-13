@@ -5193,7 +5193,7 @@ input.main-search-input::placeholder {
   background-color: var(--theme);
 }
 .pricing-box-items.style-2 .pricing-header {
-  background: #6A47ED;
+  background: #3c1f4e;
 }
 .pricing-box-items.style-2 .price-button .theme-btn {
   border: 1.5px solid var(--theme);
@@ -6049,7 +6049,7 @@ input.main-search-input::placeholder {
   line-height: 175%;
   color: var(--text);
   font-style: italic;
-  border-left: 1px solid #6A47ED;
+  border-left: 1px solid #3c1f4e;
   padding-left: 20px;
 }
 .section-title-area p.white-text {
